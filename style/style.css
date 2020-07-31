@@ -1,0 +1,15 @@
+:root {
+  --text-color: #f0f4f5;
+  --background-color: #263343;
+  --accent-color: #d49446;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif, monospace;
+  margin: 0;
+}
+
+a {
+  color: var(--text-color);
+  text-decoration: none;
+}
